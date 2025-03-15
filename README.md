@@ -1,2 +1,2 @@
 # Neural-Network-Basics101
-Neural Network from Scratch
+A basic Guide to build a Neural Network from Scratch
