@@ -1,5 +1,6 @@
 # Virtual environment folders
 .venv/
+/Datasets
 
 # Byte-compiled and cache files
 __pycache__/
